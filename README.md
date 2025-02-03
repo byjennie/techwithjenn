@@ -1,7 +1,7 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Jennifer Okoroafor
 ==========================================================================================================================================
 
-Currently CS Student and soon Software Engineering Student
+Software Engineering Student
 ----------------------------------------------------------
 
 I have been studying Computer Science since Highschool and continued studying it into College studying python and a little HTML. I have applied to study Software Engineering in my chosen University and I am currently learning to expand my coding knowledge.
